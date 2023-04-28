@@ -22,3 +22,7 @@ We believe Artificial Intelligence should be accessible to as many people as pos
 - Simple to use
 - No configs
 - Free to use and open-source
+
+### Advantages compared to OpenAI
+
+- You have full control over your own data.
